@@ -9,7 +9,7 @@ implementados en Python: regresion lineal y logistica, redes neuronales, etc.
 
 
 
-Debido a la finalidad meramente **ACADEMICA**, y divulgacion del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el final de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilizacion.
+Debido a la finalidad meramente **ACADEMICA**, y divulgacion del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el proposito de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilizacion.
 
 Pueden contactarse conmigo a santi.tissoni@gmail.com
 
