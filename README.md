@@ -1,7 +1,7 @@
 ## README
 Hola a todos:
 
-Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires
+Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
 
 Dentro del mundo de la informatica, me interesa mucho la Inteligencia Artificial, el Machine Learning y la Ciencia de Datos,
 es por eso es que este repositorio encontraran code de trabajos relacionados con algoritmos para el aprendizaje automatico
@@ -14,3 +14,5 @@ Debido a la finalidad meramente **ACADEMICA**, y divulgacion del presente reposi
 Pueden contactarse conmigo a santi.tissoni@gmail.com
 
 Muchas gracias.
+
+Saludos.
