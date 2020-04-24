@@ -7,7 +7,7 @@ Dentro del mundo de la informatica, me interesa mucho la Inteligencia Artificial
 es por eso es que este repositorio encontraran code de trabajos relacionados con algoritmos para el aprendizaje automatico
 implementados en Python: regresion lineal y logistica, redes neuronales, etc.
 
-Debido a la finalidad meramente **ACADEMICA**, y divulgación del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el proposito de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilización.
+Debido a la finalidad meramente **academica**, y divulgación del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el proposito de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilización.
 
 Pueden contactarse conmigo a santi.tissoni@gmail.com
 
