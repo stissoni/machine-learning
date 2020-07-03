@@ -11,6 +11,4 @@ Debido a la finalidad meramente **academica**, y divulgación del presente repos
 
 Pueden contactarse conmigo a santi.tissoni@gmail.com
 
-Muchas gracias.
-
 Saludos.
