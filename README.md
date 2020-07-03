@@ -3,9 +3,9 @@ Hola a todos:
 
 Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
 
-Dentro del mundo de la informatica, me interesa mucho la Inteligencia Artificial, el Machine Learning y la Ciencia de Datos,
+Dentro del mundo de la informatica, me interesa mucho la inteligencia artificial, machine Learning y la ciencia de datos,
 es por eso es que este repositorio encontraran code de trabajos relacionados con algoritmos para el aprendizaje automatico
-implementados en Python (y algo en C): regresion lineal y logistica, redes neuronales, etc.
+implementados en Python (y algo en C)
 
 Debido a la finalidad meramente **academica**, y divulgación del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el proposito de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilización.
 
