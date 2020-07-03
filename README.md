@@ -3,7 +3,7 @@ Hola a todos:
 
 Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
 
-Dentro del mundo de la informatica, me interesa mucho la inteligencia artificial, machine Learning y la ciencia de datos,
+Dentro del mundo de la informatica, me interesa mucho la inteligencia artificial, el machine earning y la ciencia de datos,
 es por eso es que este repositorio encontraran code de trabajos relacionados con algoritmos para el aprendizaje automatico
 implementados en Python (y algo en C)
 
