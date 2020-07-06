@@ -14,7 +14,7 @@ Pueden contactarse conmigo a santi.tissoni@gmail.com
 Saludos.
 
 <p align="center">
-  <img src="https://i.ibb.co/8MGRBR3/rsz-machine-learning-1024x682.jpg"/>
+  <img src="https://i.ibb.co/7GCN7gS/banner.jpg"/>
 </p>
 
 ## Contenido
