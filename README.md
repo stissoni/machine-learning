@@ -13,6 +13,8 @@ Pueden contactarse conmigo a santi.tissoni@gmail.com
 
 Saludos.
 
+![MACHINE LEARNING](https://usercontent.one/wp/www.puro-geek.com/wp-content/uploads/2019/07/Machine-learning-1024x682.jpg)
+
 ## Contenido
 
 1. Regresion lineal (simple y multiple)
