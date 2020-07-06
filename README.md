@@ -20,3 +20,5 @@ Saludos.
     * [Prediccion de ganancias de negocio local](https://github.com/stissoni/machine-learning/blob/master/Prediccion%20ganancias%20de%20negocio%20local/Prediccion%20ganancias%20de%20negocio%20local.ipynb)
 2. Regresion logistica
     * [Clasificador de aspirantes a la universidad](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20aspirantes%20universidad/Clasificador_aspirantes_a_universidad.ipynb)
+3. Redes neuronales
+    * [Clasificador de datos de 2 variables con un modelo de NN](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20de%20datos%20con%20NN/Clasificador_de_datos_con_NN.ipynb) 
