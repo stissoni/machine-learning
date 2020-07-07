@@ -1,4 +1,4 @@
-## Machine learning, deep learning and data science.
+## Machine learning.
 Hola a todos:
 
 Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
