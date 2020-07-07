@@ -1,4 +1,4 @@
-## README
+## Machine learning, deep learning and data science.
 Hola a todos:
 
 Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
@@ -24,5 +24,6 @@ Saludos.
     * [Prediccion de ganancias de negocio local](https://github.com/stissoni/machine-learning/blob/master/Prediccion%20ganancias%20de%20negocio%20local/Prediccion%20ganancias%20de%20negocio%20local.ipynb)
 2. Regresion logistica
     * [Clasificador de aspirantes a la universidad](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20aspirantes%20universidad/Clasificador_aspirantes_a_universidad.ipynb)
+    * [Clasificador de calidad de microchips](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20calidad%20microchips/Clasificador_de_calidad_de_microchips.ipynb)
 3. Redes neuronales
     * [Clasificador de datos de 2 variables con un modelo de NN](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20de%20datos%20con%20NN/Clasificador_de_datos_con_NN.ipynb): diferentes bases de datos provistas por la libreria sklearn que consisten en datos de dos variables (x1, y x2) y un output binario (0,1). El modelo a pesar de ser muy general en este caso particular, es facilmente replicable a modelos de la vida real, por ejemplo, decidir si un correo es spam o no, si un cliente compra o no, etc.
