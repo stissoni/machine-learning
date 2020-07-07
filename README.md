@@ -27,3 +27,6 @@ Saludos.
     * [Clasificador de calidad de microchips](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20calidad%20microchips/Clasificador_de_calidad_de_microchips.ipynb)
 3. Redes neuronales
     * [Clasificador de datos de 2 variables con un modelo de NN](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20de%20datos%20con%20NN/Clasificador_de_datos_con_NN.ipynb): diferentes bases de datos provistas por la libreria sklearn que consisten en datos de dos variables (x1, y x2) y un output binario (0,1). El modelo a pesar de ser muy general en este caso particular, es facilmente replicable a modelos de la vida real, por ejemplo, decidir si un correo es spam o no, si un cliente compra o no, etc.
+    
+4. Bonus
+    * [IA imbatible en tic tac toe](https://github.com/stissoni/minimax-algorithm): en este repositorio se presenta un programa que permite jugar al tic tac toe desde la terminal en contra de la computadora. No esperes ganar, no esta programada para eso :D
