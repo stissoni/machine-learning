@@ -7,7 +7,7 @@
 
 1. Regresion lineal (simple y multiple)
     * [Prediccion del valor de propiedades](https://github.com/stissoni/machine-learning/blob/master/Prediccion%20valor%20de%20propiedades/Prediccion%20valor%20propiedades.ipynb)
-    * [Prediccion de ganancias de negocio local](https://github.com/stissoni/machine-learning/blob/master/Prediccion%20ganancias%20de%20negocio%20local/Prediccion%20ganancias%20de%20negocio%20local.ipynb)
+    * [Prediccion de ganancias de negocio local](https://github.com/stissoni/machine-learning/blob/master/Prediccion%20ganancias%20de%20negocio%20local/Prediccion_ganancias_negocio_local.ipynb)
 2. Regresion logistica
     * [Clasificador de aspirantes a la universidad](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20aspirantes%20universidad/Clasificador_aspirantes_a_universidad.ipynb)
     * [Clasificador de calidad de microchips](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20calidad%20microchips/Clasificador_de_calidad_de_microchips.ipynb)
