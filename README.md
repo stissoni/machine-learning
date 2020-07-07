@@ -17,7 +17,7 @@
     * [IA imbatible en tic tac toe (en C)](https://github.com/stissoni/minimax-algorithm): en este repositorio se presenta un programa que permite jugar al tic tac toe desde la terminal en contra de la computadora. No esperes ganar, no esta programada para eso :D
     
    
-Hola a todos.
+**Hola a todos.**
 
 Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de Buenos Aires.
 
