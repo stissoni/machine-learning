@@ -14,7 +14,7 @@
 3. Redes neuronales
     * [Clasificador de datos de 2 variables con un modelo de NN](https://github.com/stissoni/machine-learning/blob/master/Clasificador%20de%20datos%20con%20NN/Clasificador_de_datos_con_NN.ipynb): diferentes bases de datos provistas por la libreria sklearn que consisten en datos de dos variables (x1, y x2) y un output binario (0,1). El modelo a pesar de ser muy general en este caso particular, es facilmente replicable a modelos de la vida real, por ejemplo, decidir si un correo es spam o no, si un cliente compra o no, etc.
 * Bonus
-    * [IA imbatible en tic tac toe](https://github.com/stissoni/minimax-algorithm): en este repositorio se presenta un programa que permite jugar al tic tac toe desde la terminal en contra de la computadora. No esperes ganar, no esta programada para eso :D
+    * [IA imbatible en tic tac toe (en C)](https://github.com/stissoni/minimax-algorithm): en este repositorio se presenta un programa que permite jugar al tic tac toe desde la terminal en contra de la computadora. No esperes ganar, no esta programada para eso :D
     
    
 Hola a todos.
@@ -23,7 +23,7 @@ Soy Santiago Tissoni, estudiante de Ingenieria Informatica en la Universidad de 
 
 Dentro del mundo de la informatica, me interesa mucho la inteligencia artificial, el machine earning y la ciencia de datos,
 es por eso es que este repositorio encontraran code de trabajos relacionados con algoritmos para el aprendizaje automatico
-implementados en Python (y algo en C). Se trata de una recopilacion de distintos trabajos realizados, tanto de diferentes cursos, como de material autodidactico.
+implementados en Python. Se trata de una recopilacion de distintos trabajos realizados, tanto de diferentes cursos, como de material autodidactico.
 
 Debido a la finalidad meramente **academica**, y divulgación del presente repositorio, sientan la libertad de utilizar el codigo con los fines que les sean necesarios, ya que el proposito de este repositorio esta muy lejos de tener derechos de autor, o presentar algun tipo de restriccion en su utilización.
 
